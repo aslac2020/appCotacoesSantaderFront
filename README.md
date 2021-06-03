@@ -22,6 +22,9 @@ Consiste em um sistema de Cotações, você pode pesquisar lista de cotações f
 ## Hospedagem do Back-End
 https://app-cotacoes-santander.herokuapp.com/bootcamp/swagger-ui.html
 
+## GitHub Pages
+https://aslac2020.github.io/appCotacoesSantaderFront/
+
 # Autor
 
 André de Sousa Lacerda
