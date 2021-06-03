@@ -19,7 +19,7 @@ Consiste em um sistema de Cotações, você pode pesquisar lista de cotações f
 - TYPESCRIPT
 
 
-## Hospedagem
+## Hospedagem do Back-End
 https://app-cotacoes-santander.herokuapp.com/bootcamp/swagger-ui.html
 
 # Autor
