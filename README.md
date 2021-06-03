@@ -5,7 +5,7 @@
 
 Projeto **SEMANA WEEK SANTANDER** em parceria com DIO.
 
-Consiste em um sistema de Cotações, você pode pesquisar lista de cotações feitas no backEnd.<br>
+Consiste em um Aplicativo Web de Cotações, você pode pesquisar lista de cotações feitas no backEnd.<br>
 *Parte do Front-End
 
 
